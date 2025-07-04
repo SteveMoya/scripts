@@ -1,0 +1,3 @@
+Permiso denegado al mover "DumpStack.log" a "Logs".
+No se pudo mover "DumpStack.log.tmp": EBUSY: resource busy or locked, rename 'D:\DumpStack.log.tmp' -> 'D:\Otros\DumpStack.log.tmp'
+No se pudo mover "pagefile.sys": EBUSY: resource busy or locked, rename 'D:\pagefile.sys' -> 'D:\Otros\pagefile.sys'
